@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    display: flexbox;
+    background-color: black;
+    height: 100vh;
+    border: 1px violet;
+    font-size: larger;
+    color: white;
+    font-display: initial;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+h2 {
+    margin: 10px 0;
+    background-color: rgb(194, 44, 92);
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+button {
+    font-size: large;
+    font-style: normal;
+    font-display: inherit;
+    border: none;
+    outline: black;
+    border-radius: px;
+    padding: 0.2px;
+    width: 180px;
+    background: white;
+    box-shadow: slateblue;
+}
